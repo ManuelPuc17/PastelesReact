@@ -1,0 +1,78 @@
+.container-upRating{
+    width: 484px;
+    margin-left: -150px;
+    padding: 0 362px;
+}
+
+.card-upRating{
+    background-color: #e70cca5b;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin-top: 50px;
+    padding: 20px 40px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.form-group-upRating{
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 0px;
+}
+
+.form-control-upRating {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.form-control-upRating:focus {
+    outline: none;
+    border-color: #ff00aa;
+    box-shadow: 0 0 5px rgba(234, 0, 255, 0.5);
+}
+
+.btn-upRating{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgba(190, 5, 181, 0.473);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-upRating:hover {
+    background-color: #cc2996;
+}
+
+.btn-cake{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgba(245, 42, 42, 0.918);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+
+.btn-cake:hover{
+    background-color: #701d54;
+    color: #ffff;
+}
+
+.image-preview-upRating {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.image-preview-upRating img {
+    width: 220px;
+    height: 220px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

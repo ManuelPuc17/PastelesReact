@@ -1,0 +1,46 @@
+.title-rt {
+    margin-bottom: 20px; /* Espacio bajo el título */
+    margin-left: 290px;
+}
+
+.container-rt{
+    width: 585px;
+    margin-left: -250px;
+    margin-top: 50px;
+    padding: 0 362px;
+}
+
+.card-listRating{
+    background-color: #e70cca5b;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 30px 130px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+
+.rating-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 10px; /* Espacio entre la tabla y otros elementos */
+    margin-left: -80px; /* Espacio izquierdo para la tabla */
+}
+
+.rating-table th,
+.rating-table td {
+    border: 2px solid chocolate;
+    padding: 10px 40px; /* Aumentado el espacio interior de las celdas */
+    text-align: center;
+}
+
+
+.image-preview-listR img {
+    width: 220px;
+    height: 220px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+

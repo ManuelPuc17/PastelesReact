@@ -1,0 +1,95 @@
+.title-list-cake {
+    margin-bottom: 20px; /* Espacio bajo el título */
+    margin-left: -350px;
+}
+
+.containers-list-cake{
+    width: 585px;
+    margin-left: -250px;
+    margin-top: 50px;
+    padding: 0 362px;
+}
+
+.card-listcake{
+    background-color: #e70cca5b;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 30px 130px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.btn-add-cake {
+    text-decoration: none;
+    background-color: rgba(190, 5, 181, 0.473);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px; /* Aumentado el espacio entre botones */
+    display: inline-block;
+    margin-left: 20px;
+}
+.btn-add-cake:hover{
+    background-color: #701d54;
+    color: #fff;
+}
+
+.list-cakes-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 10px; /* Espacio entre la tabla y otros elementos */
+    margin-left: -100px; /* Espacio izquierdo para la tabla */
+}
+
+.list-cakes-table th,
+.list-cakes-table td {
+    border: 2px solid chocolate;
+    padding: 10px; /* Aumentado el espacio interior de las celdas */
+    text-align: center;
+}
+
+.btn-edit-cake {
+    display: inline-block;
+    padding: 10px 28px;
+    background-color: rgba(190, 5, 181, 0.473);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-edit-cake:hover{
+    background-color: #701d54;
+    color: #ffff;
+}
+
+.btn-delete-cake {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgba(190, 5, 5, 0.664);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.btn-delete-cake:hover{
+    background-color: #a50125;
+    color: #ffff;
+}
+
+.image-preview-list-cake {
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.image-preview-list-cake img {
+    width: 220px;
+    height: 220px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+

@@ -1,0 +1,106 @@
+.container-addcakes {
+    width: 484px;
+    margin-left: -150px;
+    padding: 0 362px;
+}
+h2{
+    text-align: center;
+}
+
+.card-addcake {
+    background-color: #e70cca5b;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin-top: 50px;
+    padding: 20px 40px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.form-group-addcake{
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 0px;
+}
+
+.form-control-addcake{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.form-control-addcake:focus{
+    outline: none;
+    border-color: #ff00aa;
+    box-shadow: 0 0 5px rgba(234, 0, 255, 0.5);
+}
+
+.btn-addcake{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgba(190, 5, 181, 0.473);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-addcake:hover{
+    background-color: #cc2996;
+    color: #ffff;
+}
+
+.btn-cake{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgba(245, 42, 42, 0.918);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+
+.btn-cake:hover{
+    background-color: #701d54;
+    color: #ffff;
+}
+
+.btn-ajust {
+    display: flex;
+    justify-content: center; 
+    margin-top: 20px; 
+}
+
+.btn-ajust .btn {
+    margin: 0 10px;
+}
+
+.image-preview-addcake {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.image-preview-addcake img {
+    width: 220px;
+    height: 220px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+.alert {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+
+.alert-danger {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}

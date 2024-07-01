@@ -1,0 +1,73 @@
+.container-delete-rating {
+    width: 500px;
+    margin-left: -150px;
+    padding: 0 362px;
+}
+h2{
+    text-align: center;
+}
+
+.card-delete-rating {
+    background-color: #e70cca5b;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin-top: 50px;
+    padding: 20px 40px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.btn-delete-rating{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgba(245, 42, 42, 0.918);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+.btn-delete-rating:hover{
+    background-color: #701d54;
+    color: #ffff;
+}
+
+.btn-cake-out{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgba(190, 5, 181, 0.473);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-cake-out:hover {
+    background-color: #cc2996;
+    color: #ffff;
+}
+
+.btn-ajust {
+    display: flex;
+    justify-content: center; 
+    margin-top: 20px; 
+}
+
+.btn-ajust .btn-delete-rating {
+    margin: 0 0px;
+}
+
+
+
+.image-preview-delete-rating {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.image-preview-delete-rating img {
+    width: 220px;
+    height: 220px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
